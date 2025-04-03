@@ -17,5 +17,5 @@ A Python-based parking monitoring system that uses OpenCV for image processing, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd parking_system
+   git clone https://github.com/odilov-a/CarParkProject.git
+   cd CarParkProject
