@@ -1,0 +1,72 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Large media files in data/ directory
+data/*.mp4
+data/*.avi
+data/*.mov
+
+# Keep image files in data/ if they are small and necessary for the project
+# Uncomment the following line if you want to ignore image files as well
+# data/*.png
+# data/*.jpg
+# data/*.jpeg
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
+*~
